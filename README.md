@@ -6,8 +6,7 @@ Developed with PIC18 + MPLAB IDE
 for audio https://vimeo.com/312314402
 
 
-<a href="https://imgflip.com/gif/2rkq5c"><img src="https://i.imgflip.com/2rkq5c.gif" title="made at imgflip.com"/></a>
-
+<a href="https://imgflip.com/gif/2rkqbk"><img src="https://i.imgflip.com/2rkqbk.gif" title="made at imgflip.com"/></a>
 
 
 <a href="https://imgflip.com/gif/2rkq9p"><img src="https://i.imgflip.com/2rkq9p.gif" title="made at imgflip.com"/></a>
