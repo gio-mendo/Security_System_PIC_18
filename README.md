@@ -5,6 +5,16 @@ The objective of this project was to design and build a basic security system th
 An edge interrupt was configured for a PIR sensor used to detect change in heat emitted from people. A sine wave will be feed to an op amp connected to a 3D printed minispeaker. The frequency of the sine wave can be controlled through the ADC values read from a 10K potentiometer. 
 A bipolar stepper motor is used to sweep the PIR sensor. Since the PIR sensor detects change in temperature, this system will detect a static person or a person moving. 
 
+Hardware:
+
+1 x PIC18
+1 x 5V Bipolar stepper motor
+1 x ULN2003 motor driver
+1 x 5V voltage regultaror
+1 x PIR sensor 
+1 x 8 Ohm loudspeaker
+Several resistors and capacitors 
+
 <a href="https://imgflip.com/gif/2rk3vn"><img src="https://i.imgflip.com/2rk3vn.gif" title="made at imgflip.com"/></a>
 
 for audio https://vimeo.com/312314402
