@@ -8,14 +8,23 @@ A bipolar stepper motor is used to sweep the PIR sensor. Since the PIR sensor de
 Hardware:
 
 1 x PIC18
+
 1 x 5V Bipolar stepper motor
+
 1 x ULN2003 motor driver
+
 1 x LM-2950 5V voltage regultaror
+
 1 x PIR sensor 
+
 1 x 8 Ohm loudspeaker
+
 1 x 16x2 bit LCD
+
 1 x LT1661 10-bit DAC 
+
 1 x LM386 OP amp
+
 Several resistors and capacitors 
 
 <a href="https://imgflip.com/gif/2rk3vn"><img src="https://i.imgflip.com/2rk3vn.gif" title="made at imgflip.com"/></a>
